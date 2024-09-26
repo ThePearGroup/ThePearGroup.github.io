@@ -24,3 +24,11 @@ font-family: Helvetica;
 
 
 }
+
+
+img {
+  float: center;
+  width:  150px;
+  height: 100px;
+  object-fit: fill;
+}

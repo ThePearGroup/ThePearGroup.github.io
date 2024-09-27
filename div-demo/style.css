@@ -12,16 +12,13 @@ font-family: Helvetica;
   display: inline-flex;
   object-fit: scale-down;   
   justify-content: center;
-  grid-column-gap: 1px;
-  grid-row-gap: 3px;
+  grid-column-gap: 15px;
+  grid-row-gap: 20px;
 
 
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-around
-    
-
-
+  justify-content: space-around;
 
 }
 
